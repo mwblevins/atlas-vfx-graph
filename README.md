@@ -1,5 +1,5 @@
 # atlas-vfx-graph
-# Unity Fireworks VFX
+# Unity VFX
 
 The ever-evolving digital domain has dramatically transformed the landscape of visual effects (VFX). From its origins in big-screen productions, VFX technology is now omnipresent in the gaming industry, enhancing the visualization of stories and actions. The Unity VFX Graph facilitates the creation of spellbinding experiences by enabling developers to craft interactive visual effects with ease. This undertaking aims to capture your creativity, showcasing your capacity to bring exhilarating VFX to life.
 

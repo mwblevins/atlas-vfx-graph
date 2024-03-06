@@ -15,3 +15,10 @@ This project encapsulates multiple key areas:
 2. **VFX Graph:** Excel at crafting spellbinding visual effects for a gallery of fireworks using Unity’s Visual Effects Graph, featuring a myriad of shapes, colors, and behaviors.
 3. **Event System Architecture:** Develop an efficient event system to activate various visual effects within a controlled test environment.
 4. **Performance Testing:** Confirm that your VFX creations operate efficiently on PC, ensuring fluid visuals and responsive interactions.
+
+
+Notes:
+Standard fireworks can be optimized for your machine by limiting the number of available fireworks at a time. You can also increase or decrease the explosin value to match performance requirements
+Image fireworks can be scaled down to improve performance but can suffer from quality if scaled too far down as the image will not display properly
+If the sparks trail is causing issue the easiest fix is to remove the noise property as it is the most taxing on average
+Campfire can reduce amount of smoke and flames present from flipbook to improve performance
